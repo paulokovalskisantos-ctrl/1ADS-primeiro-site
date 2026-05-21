@@ -1,0 +1,25 @@
+body{
+        background-color: rgb(5, 4, 4);
+        color: #f3f3f3;
+    }
+
+    li{
+   font-size: 18px;
+   color:rgb(248, 232, 7)
+    }
+
+#html{
+    color: rgb(247, 99, 0);
+}
+ 
+#css{
+     color: rgb(0, 81, 255);
+}
+ 
+#javascript{
+     color: rgb(238, 255, 0);
+}
+    #text{
+        color: blue;
+    }
+
