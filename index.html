@@ -29,7 +29,18 @@
 <h3 id="text">sobre mim</h3>
 <p id="text"">Satisfação meno ph na voz, sou aluno do 1Ads</p>
 <img src="image.png" alt="" width="300">
+<button>🥷🏼<span>0</span></button>
 </div>
+<script>
+    const botao = document.querySelector("button")
+    botao.addEventListener('click', curtir)
+
+    function curtir(){
+        let curtidas = document.querySelector("span")
+        curtidas.textContent++;
+    }
+</script>
+
 
 
 

@@ -23,3 +23,17 @@ body{
         color: blue;
     }
 
+button{
+    background-color: blue;
+    padding: 10px 20px;/*ESPAÇO INTERNO*/
+    margin: 10px;
+    border-radius: 10px;
+}
+span{
+    font-size: 20x;
+    color: aquamarine;
+}
+ div{
+    display: flex;
+    flex-direction: column;
+ }
